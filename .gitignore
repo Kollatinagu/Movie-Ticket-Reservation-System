@@ -1,13 +1,15 @@
-
-
 # Dependencies
 node_modules/
-package-lock.json
-yarn.lock
 
-# Build outputs
+# Local env files (Secret keys)
+.env
+.env.local
+.env.*.local
+
+# Build and testing outputs
 dist/
 build/
+coverage/
 
 # IDE and editor files
 .vscode/
