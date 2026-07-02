@@ -22,4 +22,4 @@ A web-based movie ticket reservation system that allows users to view movies, se
    npm start
 
 ## Author
-Kollati naga veera durgarao
+Kollati Naga Veera Durgarao
